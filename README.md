@@ -3,7 +3,7 @@
 Parser warna ANSI sangat fleksibel untuk Python.
 
 ## Install
-pip install git+https://github.com/username/ColorPy.git
+pip install git+https://github.com/VLN-X-MASHA/ColorPy.git
 
 ## Import
 from ColorPy import warna
