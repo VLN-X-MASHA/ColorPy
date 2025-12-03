@@ -1,0 +1,18 @@
+[build-system]
+requires = ["setuptools"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "ColorPy"          
+version = "0.1.0"
+description = "Advanced ANSI color parser"
+authors = [
+  { name = "Vanxzz" }
+]
+readme = "README.md"
+requires-python = ">=3.7"
+license = { text = "MIT" }
+
+[project.urls]
+Homepage = "https://github.com/VLN-X-MASHA/ColorPy"
+Source = "https://github.com/VLN-X-MASHA/ColorPy"
